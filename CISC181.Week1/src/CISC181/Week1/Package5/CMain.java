@@ -41,6 +41,11 @@ public class CMain {
 
 	public static void CastExample2() {
 		Double D = 9.5;
+		
+		
+		
+		
+		
 		int i = Integer.valueOf(D.intValue());
 		// i = 9
 
@@ -51,6 +56,9 @@ public class CMain {
 	public static void CastExample3() {
 		double d = 9.5;
 		Long L = Math.round(d);
+
+		
+		
 		int i = Integer.valueOf(L.intValue());
 		// i = 10
 

@@ -42,6 +42,7 @@ public class CMain {
 
 		if (iNumber > 5)
 			System.out.println("Number Greater Than 5");
+		
 
 		if (iNumber == 5) {
 			System.out.println("Number is 5");

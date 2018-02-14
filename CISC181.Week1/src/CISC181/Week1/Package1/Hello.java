@@ -1,5 +1,6 @@
 package CISC181.Week1.Package1;
 
+
 /*
  * Notes - Not much to this one...  Simple 'main' method, prints a message to the console.  
  * 
@@ -21,10 +22,13 @@ public class Hello {
 		System.out.println("Hello World");
 
 		double amount = 12618.98;
+		
+		
+		
 		double interestRate = 0.0013;
 		double interest = amount * interestRate;
 		System.out.println("Interest is " + interest);
-		System.out.printf("%3.1f", 1234.56);
+		System.out.printf("%3.1f", 4.56);
 	}
 
 }
